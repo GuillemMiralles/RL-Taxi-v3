@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Reinforcement Learning in OpenAI Gym: Tackling the Taxi Problem 🚖🤖</title>
+  <title> Reinforcement Learning in OpenAI Gym: Tackling the Taxi Problem 🚖🤖 </title>
 </head>
 <body>
   <h1>Introduction 🧐</h1>
