@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title> Reinforcement Learning in OpenAI Gym: Tackling the Taxi Problem 🚖🤖 </title>
-</head>
 <body>
-  <h1>Introduction 🧐</h1>
+  <h1>🌳 Reinforcement Learning in OpenAI Gym: Tackling the Taxi Problem 🚖🤖</h1>
+  
+  <h2>Introduction 🧐</h2>
   <p>This project delves into the Taxi problem within the OpenAI Gym environment, employing Reinforcement Learning techniques to tackle it. The Taxi problem sets a scenario where a virtual taxi driver must efficiently navigate a city to pick up passengers and transport them to their specified destinations. This dynamic environment presents challenges such as route planning, optimal decision-making, and time utilization optimization, all while adhering to traffic constraints and passenger demands.</p>
 
   <h2>Description of the Problem 🚖</h2>
